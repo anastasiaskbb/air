@@ -1,0 +1,68 @@
+.navbar
+{
+    padding: 1rem 1rem;
+    background-color: #23486A !important;
+}
+
+.navbar-brand
+{
+    color: #ffffff !important;
+    font-size: 1.5rem !important;
+
+}
+
+.nav-item
+{
+    color: #ffffff !important;
+    font-size: 1.1rem !important;
+}
+
+.nav-item:hover
+{
+    color: rgb(187, 187, 187) !important;
+}
+
+body
+{
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column;
+   background-image: url(hype-ru-160503-ft--Mv4ljbPSyDEJSAHp6zGkl.jpeg);
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+
+   
+}
+
+h1
+{
+color: #ffffff;
+text-align: center;
+}
+
+.panel
+{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-top: 20vh;
+    border-radius: 35px;
+    background-color: #61a6f573;
+}
+
+.btn-main
+{
+border-color: #23486ad5 ;
+background-color: #23486ad5 ;
+border-radius: 35px;
+color: white;
+padding: 0.7rem 1.5rem !important;
+}
+
+.btn-main:hover
+{
+    color: rgb(255, 255, 255);
+    background-color: #1c354dd5 !important;
+}
+
